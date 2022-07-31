@@ -1,0 +1,9 @@
+2022-07-30 23:32:16,560---root--INFO--your input is: [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']]
+2022-07-30 23:32:16,561---root--INFO--your output is (2, 3, 4, 5, 6)
+2022-07-30 23:32:16,562---root--INFO--your output is (3, 4, 5, 6, 7)
+2022-07-30 23:32:16,562---root--INFO--the input is: [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']]
+2022-07-30 23:32:16,563---root--INFO--your output:[dict_keys(['k1', 'k2', 'k3', 3, 7])]
+2022-07-30 23:32:16,563---root--INFO--your input is: [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']]
+2022-07-30 23:32:16,563---root--INFO--your Reversed List: [['ineuron', 'data science '], {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, {45, 4, 5, 23}, (3, 4, 5, 6, 7), (2, 3, 4, 5, 6), [1, 2, 3, 4]]
+2022-07-30 23:32:16,564---root--INFO--your input is:[['ineuron', 'data science '], {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, {45, 4, 5, 23}, (3, 4, 5, 6, 7), (2, 3, 4, 5, 6), [1, 2, 3, 4]] 
+2022-07-30 23:32:16,564---root--INFO--the output is: ['ineuron', 'data science ', 'k1', 'sudh', 'k2', 'ineuron', 'k3', 'kumar', 3, 6, 7, 8, 45, 4, 5, 23, 3, 4, 5, 6, 7, 2, 3, 4, 5, 6, 1, 2, 3, 4]
